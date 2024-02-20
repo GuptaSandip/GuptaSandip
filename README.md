@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptasandip" alt="guptasandip" /></a> </p>
 
-- 🌱 I’m currently learning **3rd year Bsc Computer Science**
+- 🌱 **I work as Data Science Trainer**
 
 - 📫 How to reach me **sandipgupta7304@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **It would take 181 million years to download all the data from the internet.**
 
 ## Connect with me ⭐:
 
