@@ -13,11 +13,11 @@ Alongside engineering, I have trained 2000+ students and professionals in AI, Ma
 ## 🔧 What I Build
 
 ```text
-LLM Pipelines        ██████████████████░░  LangChain · OpenAI · Hugging Face
-RAG Systems          ████████████████░░░░  FAISS · ChromaDB · LlamaIndex
-Agentic AI           ███████████████░░░░░  LangGraph · CrewAI · Tool Calling
-APIs & Deployment    ██████████████░░░░░░  FastAPI · Docker · Streamlit
-Fine-Tuning          ████████████░░░░░░░░  LoRA · QLoRA · PEFT · Hugging Face
+LLM Pipelines       -  LangChain · OpenAI · Hugging Face
+RAG Systems         -  FAISS · ChromaDB · LlamaIndex
+Agentic AI          -  LangGraph · CrewAI · Tool Calling
+APIs & Deployment   -  FastAPI · Docker · Streamlit
+Fine-Tuning         -  LoRA · QLoRA · PEFT · Hugging Face
 ```
 
 ---
