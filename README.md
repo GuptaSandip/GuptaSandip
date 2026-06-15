@@ -2,9 +2,11 @@
 
 ### AI Engineer · LLMs · Agentic AI · RAG · GenAI
 
-I build and deploy production-grade AI systems — LLM pipelines, RAG architectures, and Agentic AI workflows. Currently pursuing my PG in AI & ML at IIIT Bangalore.
+I design, build, and deploy AI systems powered by LLMs, Retrieval-Augmented Generation (RAG), and Agentic AI.
 
-Previously, I've trained 2000+ students and professionals in Generative AI, Deep Learning, and ML — which means I don't just build AI systems, I understand them deeply enough to teach them.
+My work spans enterprise knowledge assistants, multi-agent workflows, AI-powered search systems, and production-ready GenAI applications.
+
+Alongside engineering, I have trained 2000+ students and professionals in AI, Machine Learning, and Generative AI, giving me a unique perspective on both building and explaining complex AI systems.
 
 ---
 
@@ -17,6 +19,22 @@ Agentic AI           ███████████████░░░░�
 APIs & Deployment    ██████████████░░░░░░  FastAPI · Docker · Streamlit
 Fine-Tuning          ████████████░░░░░░░░  LoRA · QLoRA · PEFT · Hugging Face
 ```
+
+---
+
+## Featured Projects
+
+### Enterprise GenAI Knowledge Assistant
+RAG-powered knowledge assistant built with FastAPI, OpenAI, and vector databases for enterprise document retrieval.
+
+### MedQuery AI
+Healthcare-focused AI assistant capable of answering questions from medical reports and research documents with source citations.
+
+### Portfolio AI Assistant
+Agentic AI chatbot integrated into my portfolio using Pinecone, RAG, streaming responses, and intelligent lead capture.
+
+### LoRA Fine-Tuning Pipeline
+Fine-tuning workflow using Hugging Face PEFT, LoRA, and QLoRA techniques for domain adaptation.
 
 ---
 
@@ -81,4 +99,4 @@ Fine-Tuning          ████████████░░░░░░░�
 
 ---
 
-> *"I don't just use AI tools — I build them, deploy them, and teach others to think with them."*
+> *"Building AI systems that move beyond demos and solve real-world problems, and teach others to think with them."*
