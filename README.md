@@ -1,62 +1,84 @@
-<!--### Hi there 👋 I am Sandip Gupta-->
+# Hi, I'm Sandip Gupta 👋
 
-<!--
-**GuptaSandip/GuptaSandip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer · LLMs · Agentic AI · RAG · GenAI
 
-Here are some ideas to get you started:
+I build and deploy production-grade AI systems — LLM pipelines, RAG architectures, and Agentic AI workflows. Currently pursuing my PG in AI & ML at IIIT Bangalore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Sandip Gupta</h1>
-<h3 align="center">A passionate Data Scientist Enthusiast from India</h3>
+Previously, I've trained 2000+ students and professionals in Generative AI, Deep Learning, and ML — which means I don't just build AI systems, I understand them deeply enough to teach them.
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasandip&label=Profile%20views&color=0e75b6&style=flat" alt="guptasandip" /> </p>
+## 🔧 What I Build
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptasandip" alt="guptasandip" /></a> </p>
+```text
+LLM Pipelines        ██████████████████░░  LangChain · OpenAI · Hugging Face
+RAG Systems          ████████████████░░░░  FAISS · ChromaDB · LlamaIndex
+Agentic AI           ███████████████░░░░░  LangGraph · CrewAI · Tool Calling
+APIs & Deployment    ██████████████░░░░░░  FastAPI · Docker · Streamlit
+Fine-Tuning          ████████████░░░░░░░░  LoRA · QLoRA · PEFT · Hugging Face
+```
 
-- 🌱 **I work as Data Science Trainer**
+---
 
-- 📫 How to reach me **sandipgupta7304@gmail.com**
+## 🛠️ Tech Stack
 
-- ⚡ Fun fact **It would take 181 million years to download all the data from the internet.**
+**Core**
+`Python` `FastAPI` `LangChain` `LangGraph`
 
-## Connect with me ⭐:
+**Framework**
+`OpenAI SDK (python)` `Crew AI` `Auto Gen` `MCP`
+
+**LLMs & GenAI**
+`OpenAI` `Hugging Face` `Ollama` `Groq` `NVIDIA NIM`
+
+**Vector DBs & RAG**
+`FAISS` `ChromaDB` `LlamaIndex`
+
+**ML & Deep Learning**
+`PyTorch` `Scikit-learn` `Pandas` `NumPy`
+
+**Infrastructure**
+`Docker` `Git` `Linux` `Streamlit`
+
+**Databases**
+`MySQL` `MongoDB` `PostgreSQL`
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔨 Building production-grade **Agentic AI** systems using LangGraph and tool-calling LLMs
+- 📚 Pursuing **PG in AI & ML** at IIIT Bangalore (2025–2026)
+- 🧠 Exploring **multi-agent orchestration** and autonomous AI workflows
+
+---
+
+## 📜 Certifications
+
+- 🏅 **NVIDIA** — Prompt Engineering & Data Analysis
+- 🏅 **AI Engineer Core Track** — LLM Engineering, RAG, QLoRA, Agents
+- 🏅 **Machine Learning** — Modern Computer Vision & Generative AI
+- 🏅 **Generative AI Essentials**
+- 🏅 **SQL (Basic)** — HackerRank
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<a href="https://linkedin.com/in/sandip-gupta11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip-gupta11" height="30" width="40" /></a>
-<a href="https://kaggle.com/sandipgupta11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sandipgupta11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sandip_gupta_111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandip_gupta_111" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=guptasandip&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasandip&layout=compact&hide_border=true&theme=default" height="160"/>
 </p>
 
-## Languages and Tools:
+---
 
-### Languages ⭐ :
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🤝 Let's Connect
 
-## Frontend and Development ⭐ :
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipgupta-ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sandipgupta.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jobsforsandipgupta@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/sandipgupta11)
 
-## AI/ML ⭐ :
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-## Database ⭐ :
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-
-## Framework ⭐ :
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
-
-
-## Others ⭐ :
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p align="left"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptasandip&show_icons=true&locale=en" alt="guptasandip" /></p>
+> *"I don't just use AI tools — I build them, deploy them, and teach others to think with them."*
